@@ -1,0 +1,12 @@
+[package]
+name = "cfg_compiler"
+authors = ["quratoop <quratoop@quratoop.com>"]
+license = "MIT OR Apache-2.0"
+version = "0.1.0"
+edition = "2024"
+keywords = ["build", "cfg"]
+homepage = "https://github.com/quratoop/cfg_compiler"
+repository = "https://github.com/quratoop/cfg_compiler"
+
+[dependencies]
+rustc_version = "0.4.1"
